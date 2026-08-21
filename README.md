@@ -23,7 +23,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **GlobPey Sales** | 2.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/2/GlobPey_Sales_2_0_0.apk) |
+| **GlobPey Sales** | 2.0.1 | [Download](https://github.com/core-usa/globpey/releases/download/2/GlobPey_Sales_2_0_1.apk) |
 | **GlobPey Kiosk** | 2.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/2/GlobPey_Kiosk_2_0_0.apk) |
 | **GlobPey KDS** | 2.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/2/GlobPey_KDS_2_0_0.apk) |
 | **GlobPey Manager** | 2.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/2/GlobPey_Manager_2_0_0.apk) |
