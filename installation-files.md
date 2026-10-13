@@ -1,5 +1,12 @@
 🎉 Welcome to GlobPey APK Repository!
 
+### Version 3
+
+| Application | Version | Download |
+|---|---|---|
+| **GlobPey Sales** | 3.0.3 | [Download](https://github.com/core-usa/globpey/releases/download/3/GlobPey_Sales_3_0_3.apk) |
+| **GlobPey Kiosk** | 3.0.3 | [Download](https://github.com/core-usa/globpey/releases/download/3/GlobPey_Kiosk_3_0_3.apk) |
+
 ### Version 2
 
 | Application | Version | Download |
