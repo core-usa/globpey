@@ -1,5 +1,11 @@
 🎉 Welcome to GlobPey APK Repository!
 
+### Version 4
+
+| Application | Version | Download |
+|---|---|---|
+| **GlobPey Sales** | 4.0.4 | [Download](https://github.com/core-usa/globpey/releases/download/4/GlobPey_Sales_4_0_4.apk) |
+
 ### Version 3
 
 | Application | Version | Download |
