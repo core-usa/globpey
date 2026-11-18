@@ -1,10 +1,17 @@
 🎉 Welcome to GlobPey APK Repository!
 
+### Version 5
+
+| Application | Version | Download |
+|---|---|---|
+| **GlobPey Sales** | 5.0.2 | [Download](https://github.com/core-usa/globpey/releases/download/5/GlobPey_KDS_5_0_0.apk) |
+| **GlobPey KDS** | 5.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/3/GlobPey_Kiosk_3_0_3.apk) |
+
 ### Version 4
 
 | Application | Version | Download |
 |---|---|---|
-| **GlobPey Sales** | 4.0.4 | [Download](https://github.com/core-usa/globpey/releases/download/4/GlobPey_Sales_4_0_4.apk) |
+| **GlobPey Sales** | 4.0.5 | [Download](https://github.com/core-usa/globpey/releases/download/4/GlobPey_Sales_4_0_5.apk) |
 
 ### Version 3
 
