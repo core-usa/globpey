@@ -5,7 +5,7 @@
 
 | Application | Version | Download |
 |---|---|---|
-| **GlobPey Sales** | 6.0.1 | [Download](https://github.com/core-usa/globpey/releases/download/5/GlobPey_Sales_6_0_1.apk) |
+| **GlobPey Sales** | 6.0.1 | [Download](https://github.com/core-usa/globpey/releases/download/6/GlobPey_Sales_6_0_1.apk) |
 | **GlobPey Kiosk** | 6.0.0 | [Download](https://github.com/core-usa/globpey/releases/download/6/GlobPey_Kiosk_6_0_0.apk) |
 
 ### Version 5
